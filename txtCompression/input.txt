@@ -1,0 +1,1475 @@
+Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.
+Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.
+Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements wSteps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elements with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.Steps to build Huffman Tree:
+The input to the algorithm is the array of characters in the text file.
+The frequency of occurrences of each character in the file is calculated.
+Struct array is created where each element includes the character along with their frequencies. They are stored in a priority queue (min-heap), where the elements are compared using their frequencies.
+To build the Huffman tree, two elePS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> cd "c:\Users\dell\Desktop\huffmann\" ; if ($?) { g++ project.c++ -o project } ; if ($?) { .\project }
+PS C:\Users\dell\Desktop\huffmann> 
+ments with minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.ith minimum frequency are extracted from the min-heap.
+The two nodes are added to the tree as left and right children to a new root node which contains the frequency equal to the sum of two frequencies. A lower frequency character is added to the left child node and the higher frequency character into the right child node. 
+The root node is then again added back to the priority queue.
+Repeat from step 4 until there is only one element left in the priority queue.
+Finally, the tree’s left and right edges are numbered 0 and 1, respectively. For each leaf node, the entire tree is traversed, and the corresponding 1 and 0 are appended to their code until a leaf node is encountered.
+Once we have the unique codes for each unique character in the text, we can replace the text characters with their codes. These codes will be stored in bit-by-bit form, which will take up less space than text.
